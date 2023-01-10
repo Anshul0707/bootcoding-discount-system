@@ -1,7 +1,6 @@
 package com.bootcoding.discount.model;
 
 import org.springframework.stereotype.Component;
-
 import java.util.Date;
 
 @Component
